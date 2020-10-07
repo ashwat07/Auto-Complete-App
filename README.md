@@ -1,0 +1,1 @@
+Simple Auto Complete App using React + React-Bootstrap-Typeahead + Express + MySQL
